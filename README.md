@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Hacking, Programming, Pentesting**
 
-- 📫 How to reach me **shreyasssaunshi@gmail.com**
+- 📫 Reach me @ **shreyasssaunshi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
