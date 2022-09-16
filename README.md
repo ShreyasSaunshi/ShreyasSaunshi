@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Shreyas Saunshi, a **Cyber security analyst, Developer & Blockchain Enthusiast** I am Pursuing my Bachelor in **Electronics and Communication Engineering** and will graduate in mid-2025.
+🎓 I am Shreyas Saunshi, a **Cyber security analyst, Developer & Blockchain Enthusiast**. I am Pursuing my Bachelor in **Electronics and Communication Engineering** and will graduate in mid-2025.
 
 👨‍💻 I enjoy contributing to **Open Source Projects** I'm a member of **Github** developer group from past 6 months, I also stared freelancing from past year.  I am really enthusiastic about learning new technology. 
 
@@ -89,4 +89,4 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shreyassaunshi/)
 
 <h3 align="left">Support Me:</h3>
-<p><a href="https://www.buymeacoffee.com/shreyassaunshi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shreyassaunshi" /></a></p><br><br>
+<p align="center"><a href="https://www.buymeacoffee.com/shreyassaunshi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shreyassaunshi" /></a></p><br><br>
