@@ -37,7 +37,7 @@
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![c](https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=python&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Front-End Development
@@ -89,4 +89,4 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shreyassaunshi/)
 
 <h3 align="left">Support Me:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/shreyassaunshi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shreyassaunshi" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/shreyassaunshi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shreyassaunshi" /></a></p><br><br>
