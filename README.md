@@ -27,7 +27,7 @@
 
 📚 I also love reading books on **personal development**, **financial literacy** & **Historical Novels**. Some of my favorite ones includes **The Compound Effect** by _Darren Hardy_ and **Rich Dad Poor Dad** by _Robert Kiyosaki_.
 
-✈️ I love **traveling** too. I have nearly travelled all over **India**.
+✈️ I love **traveling** too.
 
 ## 🛠️ Skills
 
