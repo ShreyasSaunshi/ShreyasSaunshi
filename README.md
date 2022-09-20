@@ -23,9 +23,9 @@
 
 👨‍💻 I enjoy contributing to **Open Source Projects** I'm a member of **Github** developer group from past 6 months, I also stared freelancing from past year.  I am really enthusiastic about learning new technology. 
 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **Swimming**, **Historical Research**, **Sketching**, **Geo-Polity** and **Quantum Physics** to some whacky ones like **Writing with my left hand**.
+🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **Swimming**, **Independent Historical Research**, **Sketching**, **Geo-Polity** and **Quantum Physics** to some whacky ones like **Writing with my left hand**.
 
-📚 I also love reading books on **personal development**, **financial literacy** & **Historical Novels**. Some of my favorite ones includes **The Compound Effect** by _Darren Hardy_ and **Rich Dad Poor Dad** by _Robert Kiyosaki_.
+📚 I also love reading books on **Spritual development**, **Financial literacy** & **Historical Novels**. Some of my favorite ones includes **The Compound Effect** by _Darren Hardy_ and **Rich Dad Poor Dad** by _Robert Kiyosaki_.
 
 ✈️ I love **traveling** too.
 
