@@ -19,9 +19,9 @@
 
 ## 🚀 About Me:
 
-🎓 I am Shreyas Saunshi, a **Cyber security analyst, Developer & Blockchain Enthusiast**. I am Pursuing my Bachelor in **Electronics and Communication Engineering** and will graduate in mid-2025.
+🎓 I am Shreyas Saunshi, a **Cyber security researcher, Ethical Hacker, CTF Player, Bug bounty Hunter, Programmer & Blockchain Enthusiast**. I am Pursuing my Bachelor in **Electronics and Communication Engineering** and will graduate in mid-2025.
 
-👨‍💻 I enjoy contributing to **Open Source Projects** I'm a member of **Github** developer group from past 6 months, I also stared freelancing from past year.  I am really enthusiastic about learning new technology. 
+👨‍💻 I enjoy contributing to **Open Source Projects** I'm a member of **Github** developer group from past 6 months, I also stared freelancing from past year. I am really enthusiastic about learning new technology. 
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **Swimming**, **Independent Historical Research**, **Sketching**, **Geo-Polity** and **Quantum Physics** to some whacky ones like **Writing with my left hand**.
 
