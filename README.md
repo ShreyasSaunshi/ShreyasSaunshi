@@ -29,7 +29,7 @@
 
 ✈️ I love **Traveling** too.
 
-## 🛠️ Skills
+## 🛠️ Skills:
 
 ### Languages
 
