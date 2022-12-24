@@ -11,7 +11,7 @@
   <img align="left" alt="Shreyas's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
+![](https://api.visitorbadge.io/api/VisitorHit?user=shreyassaunshi&repo=github-visitors-badge&countColor=%237B1E7A)
 
 <br />
 
