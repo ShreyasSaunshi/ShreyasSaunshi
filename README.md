@@ -11,8 +11,6 @@
   <img align="left" alt="Shreyas's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=shreyassaunshi&repo=github-visitors-badge&countColor=%237B1E7A)
-
 <br />
 
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
