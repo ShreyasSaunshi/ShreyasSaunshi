@@ -10,8 +10,6 @@
 <a href="https://www.linkedin.com/in/shreyassaunshi/">
   <img align="left" alt="Shreyas's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-[![Resume](https://img.shields.io/badge/Resume-6FDA44?style=for-the-badge&logo=Resume&logoColor=red)](https://drive.google.com/file/d/1bkePx7rNlAtFLY5tvABoJVQ8ufKljXjQ/view?usp=sharing)
-
 ![](https://visitor-badge.glitch.me/badge?page_id=shreyassaunshi.shreyassaunshi)
 
 <br />
@@ -76,6 +74,7 @@
 
 ## 🔗 Links
 
+[![Resume](https://img.shields.io/badge/Resume-EE4B2B?style=for-the-badge&logo=Resume&logoColor=red)](https://drive.google.com/file/d/1bkePx7rNlAtFLY5tvABoJVQ8ufKljXjQ/view?usp=sharing)
 [![upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~017fd3fd77fe50338b)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/shreyassaunshi/)
 [![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/shreyassaunshi)
