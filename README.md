@@ -32,7 +32,7 @@
 ![tor](https://img.shields.io/badge/Tor-3178C6?style=for-the-badge&logo=tor&logoColor=white)
 ![wireshark](https://img.shields.io/badge/Wireshark-3776AB?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-3776AB?style=for-the-badge&logo=Networking&logoColor=white)
-![Raspberrypi4](https://img.shields.io/badge/Raspberrypi4-3776AB?style=for-the-badge&logo=Raspberrypi4&logoColor=61DAFB)
+![Raspberry-pi4](https://img.shields.io/badge/Raspberry-pi4-3776AB?style=for-the-badge&logo=Raspberry-pi4&logoColor=61DAFB)
 
 
 ### Languages
