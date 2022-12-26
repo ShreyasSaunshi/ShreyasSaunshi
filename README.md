@@ -33,7 +33,7 @@
 ![wireshark](https://img.shields.io/badge/Wireshark-3776AB?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-3776AB?style=for-the-badge&logo=Networking&logoColor=white)
 ![Raspberrypi4](https://img.shields.io/badge/Raspberrypi4-3776AB?style=for-the-badge&logo=Raspberrypi4&logoColor=61DAFB)
-![Google Dorks](https://img.shields.io/badge/Google Dorks-323330?style=for-the-badge&logo=GoogleDorks&logoColor=F7DF1E)
+![GoogleDorks](https://img.shields.io/badge/GoogleDorks-323330?style=for-the-badge&logo=GoogleDorks&logoColor=F7DF1E)
 ![BurpSuite](https://img.shields.io/badge/BurpSuite-470137?style=for-the-badge&logo=BurpSuite&logoColor=white)
 
 ### Languages
