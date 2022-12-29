@@ -25,7 +25,7 @@
 
 # 🛠️ Skills:
 
-## Cyber Security
+## Cyber Security:
 
 ![linux](https://img.shields.io/badge/Linux-3776AB?style=for-the-badge&logo=linux&logoColor=white)
 ![cryptography](https://img.shields.io/badge/Cryptography-323330?style=for-the-badge&logo=cryptography&logoColor=F7DF1E)
@@ -35,9 +35,9 @@
 ![GoogleDorks](https://img.shields.io/badge/GoogleDorks-323330?style=for-the-badge&logo=GoogleDorks&logoColor=F7DF1E)
 ![BurpSuite](https://img.shields.io/badge/BurpSuite-470137?style=for-the-badge&logo=BurpSuite&logoColor=white)
 
-## Programming
+## Programming:
 
-### Languages
+### Languages:
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![c](https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=c&logoColor=white)
@@ -46,7 +46,7 @@
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Front-End Development
+### Front-End Development:
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -56,7 +56,7 @@
 ![vue](https://img.shields.io/badge/Vue-000000?style=for-the-badge&logo=vue&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-### Design Tools
+### Design Tools:
 
 ![adobe-xd](https://img.shields.io/badge/adobe_xd-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
