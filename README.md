@@ -10,7 +10,6 @@
 <a href="https://www.linkedin.com/in/shreyassaunshi/">
   <img align="left" alt="Shreyas's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-|[ Resume  ](https://drive.google.com/file/d/1o_sngTGSg7DiGbG6yW3QqTzjwcaud6KU/view)
 
 <br />
 
