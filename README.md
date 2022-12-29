@@ -25,7 +25,7 @@
 
 # 🛠️ Skills:
 
-### Cyber Security
+## Cyber Security
 
 ![linux](https://img.shields.io/badge/Linux-3776AB?style=for-the-badge&logo=linux&logoColor=white)
 ![cryptography](https://img.shields.io/badge/Cryptography-323330?style=for-the-badge&logo=cryptography&logoColor=F7DF1E)
@@ -34,6 +34,8 @@
 ![Raspberrypi4](https://img.shields.io/badge/Raspberrypi4-3776AB?style=for-the-badge&logo=Raspberrypi4&logoColor=61DAFB)
 ![GoogleDorks](https://img.shields.io/badge/GoogleDorks-323330?style=for-the-badge&logo=GoogleDorks&logoColor=F7DF1E)
 ![BurpSuite](https://img.shields.io/badge/BurpSuite-470137?style=for-the-badge&logo=BurpSuite&logoColor=white)
+
+## Programming
 
 ### Languages
 
