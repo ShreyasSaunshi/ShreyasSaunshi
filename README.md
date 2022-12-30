@@ -36,8 +36,8 @@
 ![BurpSuite](https://img.shields.io/badge/BurpSuite-470137?style=for-the-badge&logo=BurpSuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Tools-Nmap-informational?style=for-the-badge&logo=Nmap&logoColor=99e836)
 ![VM Ware](https://img.shields.io/badge/Virtualization-VMware-informational?style=for-the-badge&logo=vmware&logoColor=white&color=99e836)
-![Metasploit](https://img.shields.io/badge/Metasploit-informational?style=for-the-badge&logo=windowsterminal&logoColor=white&color=99e836)
-![OWASP](https://img.shields.io/badge/OWASP%20Zap-informational?style=for-the-badge&logo=windowsterminal&logoColor=white&color=99e836)
+![Metasploit](https://img.shields.io/badge/Metasploit-informational?style=for-the-badge&logo=windowsterminal&logoColor=white&color=0096FF)
+![OWASP](https://img.shields.io/badge/OWASP%20Zap-informational?style=for-the-badge&logo=windowsterminal&logoColor=white&color=7F00FF)
 
 
 
