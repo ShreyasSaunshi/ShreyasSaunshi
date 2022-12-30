@@ -32,17 +32,12 @@
 ![cryptography](https://img.shields.io/badge/Cryptography-323330?style=for-the-badge&logo=cryptography&logoColor=F7DF1E)
 ![tor](https://img.shields.io/badge/Tor-3178C6?style=for-the-badge&logo=tor&logoColor=white)
 ![Raspberrypi4](https://img.shields.io/badge/Raspberrypi4-3776AB?style=for-the-badge&logo=Raspberrypi4&logoColor=61DAFB)
-![GoogleDorks](https://img.shields.io/badge/GoogleDorks-323330?style=for-the-badge&logo=GoogleDorks&logoColor=F7DF1E)
+![GoogleDorks](https://img.shields.io/badge/GoogleDorks-323330?sstyle=for-the-badge&logo=docker&logoColor=F7DF1E)
 ![BurpSuite](https://img.shields.io/badge/BurpSuite-470137?style=for-the-badge&logo=BurpSuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Tools-Nmap-informational?style=for-the-badge&logo=Nmap&logoColor=99e836)
-
-
-
-![](https://img.shields.io/badge/Shell-Bash%20/%20ZSH%20PowerShell-informational?style=flat&logo=gnu-bash&logoColor=white&color=99e836)
-![](https://img.shields.io/badge/Virtualization-VMware-informational?style=flat&logo=vmware&logoColor=white&color=99e836)
-![](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker&logoColor=white&color=99e836)
-![](https://img.shields.io/badge/Metasploit-informational?style=for-the-badge&logo=windowsterminal&logoColor=white&color=99e836)
-![](https://img.shields.io/badge/OWASP%20Zap-informational?style=for-the-badge&logo=windowsterminal&logoColor=white&color=99e836)
+![VM Ware](https://img.shields.io/badge/Virtualization-VMware-informational?style=for-the-badge&logo=vmware&logoColor=white&color=99e836)
+![Metasploit](https://img.shields.io/badge/Metasploit-informational?style=for-the-badge&logo=windowsterminal&logoColor=white&color=99e836)
+![OWASP](https://img.shields.io/badge/OWASP%20Zap-informational?style=for-the-badge&logo=windowsterminal&logoColor=white&color=99e836)
 
 
 
