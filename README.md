@@ -28,13 +28,30 @@
 ## Cyber Security:
 
 ![linux](https://img.shields.io/badge/OS-Linux-3776AB?style=for-the-badge&logo=linux&logoColor=white)
+![wireshark](https://img.shields.io/badge/Wireshark-3776AB?style=for-the-badge&logo=wireshark&logoColor=white)
 ![cryptography](https://img.shields.io/badge/Cryptography-323330?style=for-the-badge&logo=cryptography&logoColor=F7DF1E)
 ![tor](https://img.shields.io/badge/Tor-3178C6?style=for-the-badge&logo=tor&logoColor=white)
-![wireshark](https://img.shields.io/badge/Wireshark-3776AB?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Raspberrypi4](https://img.shields.io/badge/Raspberrypi4-3776AB?style=for-the-badge&logo=Raspberrypi4&logoColor=61DAFB)
 ![GoogleDorks](https://img.shields.io/badge/GoogleDorks-323330?style=for-the-badge&logo=GoogleDorks&logoColor=F7DF1E)
 ![BurpSuite](https://img.shields.io/badge/BurpSuite-470137?style=for-the-badge&logo=BurpSuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Tools-Nmap-informational?style=for-the-badge&logo=Nmap&logoColor=99e836)
+
+
+![](https://img.shields.io/badge/OS-Win10-informational?style=flat&logo=windows&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/Editor-Sublime-informational?style=flat&logo=sublime-text&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/Shell-Bash%20/%20ZSH-informational?style=flat&logo=gnu-bash&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/Virtualization-VMware-informational?style=flat&logo=vmware&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker&logoColor=white&color=99e836)
+
+
+![](https://img.shields.io/badge/Tools-Sqlmap-informational?style=for-the-badge&logo=windowsterminal&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/Tools-Metasploit-informational?style=for-the-badge&logo=windowsterminal&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/Tools-BurpSuite-informational?style=for-the-badge&logo=windowsterminal&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/Tools-OWASP%20Zap-informational?style=for-the-badge&logo=windowsterminal&logoColor=white&color=99e836)
+
 
 
 ## Programming:
