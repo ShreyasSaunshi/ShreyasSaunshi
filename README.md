@@ -34,7 +34,7 @@
 ![Raspberrypi4](https://img.shields.io/badge/Raspberrypi4-3776AB?style=for-the-badge&logo=Raspberrypi4&logoColor=61DAFB)
 ![GoogleDorks](https://img.shields.io/badge/GoogleDorks-323330?style=for-the-badge&logo=GoogleDorks&logoColor=F7DF1E)
 ![BurpSuite](https://img.shields.io/badge/BurpSuite-470137?style=for-the-badge&logo=BurpSuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Tools-Nmap-informational?style=flat&logo=windowsterminal&logoColor=white&color=99e836)
+![Nmap](https://img.shields.io/badge/Tools-Nmap-informational?style=for-the-badge&logo=Nmap&logoColor=99e836)
 
 
 ## Programming:
