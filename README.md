@@ -21,8 +21,6 @@
 
 👨‍💻 I enjoy contributing to **Open Source Projects** I'm a member of **Github** developer group from past 9 months, I also stared freelancing from past year. I am really enthusiastic about learning new technologies. 
 
-📚 I also love reading books on **Spritual development**, **Financial literacy** & **Historical Novels**. Some of my favorite ones includes **The Compound Effect** by _Darren Hardy_ and **Rich Dad Poor Dad** by _Robert Kiyosaki_.
-
 # 🛠️ Skills:
 
 ## Cyber Security:
