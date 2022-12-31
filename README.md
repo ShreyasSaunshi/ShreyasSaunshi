@@ -19,7 +19,7 @@
 
 🎓 I am Shreyas Saunshi, a **Cyber Security Researcher, Ethical Hacker, CTF Player, Bug bounty Hunter, Programmer & Blockchain Enthusiast**. I am Pursuing my Bachelor in **Electronics and Communication Engineering** and will graduate in mid-2025.
 
-👨‍💻 I enjoy contributing to **Open Source Projects** I'm a member of **Github** developer group from past 7 months, I also stared freelancing from past year. I am really enthusiastic about learning new technology. 
+👨‍💻 I enjoy contributing to **Open Source Projects** I'm a member of **Github** developer group from past 9 months, I also stared freelancing from past year. I am really enthusiastic about learning new technologies. 
 
 📚 I also love reading books on **Spritual development**, **Financial literacy** & **Historical Novels**. Some of my favorite ones includes **The Compound Effect** by _Darren Hardy_ and **Rich Dad Poor Dad** by _Robert Kiyosaki_.
 
@@ -30,9 +30,9 @@
 ![linux](https://img.shields.io/badge/OS-Linux-3776AB?style=for-the-badge&logo=linux&logoColor=white)
 ![wireshark](https://img.shields.io/badge/Wireshark-3776AB?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-informational?style=for-the-badge&logo=Nmap&logoColor=99e836)
-![Metasploit](https://img.shields.io/badge/Metasploit-informational?style=for-the-badge&logo=windowsterminal&logoColor=white&color=0096FF)
+![Metasploit](https://img.shields.io/badge/Metasploit-informational?style=for-the-badge&logo=windowsterminal&logoColor=white&color=FF5733)
 ![OWASP](https://img.shields.io/badge/OWASP%20Zap-informational?style=for-the-badge&logo=windowsterminal&logoColor=white&color=7F00FF)
-![GoogleDorks](https://img.shields.io/badge/GoogleDorks-informational?style=for-the-badge&logo=docker&logoColor=white&color=F7DF1E)
+![GoogleDorks](https://img.shields.io/badge/GoogleDorks-informational?style=for-the-badge&logo=docker&logoColor=white&color=EC5800)
 ![BurpSuite](https://img.shields.io/badge/BurpSuite-470137?style=for-the-badge&logo=BurpSuite&logoColor=white)
 ![cryptography](https://img.shields.io/badge/Cryptography-323330?style=for-the-badge&logo=cryptography&logoColor=F7DF1E)
 ![tor](https://img.shields.io/badge/Tor-3178C6?style=for-the-badge&logo=tor&logoColor=white)
