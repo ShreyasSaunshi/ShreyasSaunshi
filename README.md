@@ -33,7 +33,7 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-informational?style=for-the-badge&logo=windowsterminal&logoColor=white&color=FF5733)
 ![OWASP](https://img.shields.io/badge/OWASP%20Zap-informational?style=for-the-badge&logo=windowsterminal&logoColor=white&color=7F00FF)
 ![GoogleDorks](https://img.shields.io/badge/GoogleDorks-informational?style=for-the-badge&logo=docker&logoColor=white&color=EC5800)
-![BurpSuite](https://img.shields.io/badge/BurpSuite-470137?style=for-the-badge&logo=BurpSuite&logoColor=white)
+![BurpSuite](https://img.shields.io/badge/BurpSuite-470137?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![cryptography](https://img.shields.io/badge/Cryptography-323330?style=for-the-badge&logo=cryptography&logoColor=F7DF1E)
 ![tor](https://img.shields.io/badge/Tor-3178C6?style=for-the-badge&logo=tor&logoColor=white)
 ![Raspberrypi4](https://img.shields.io/badge/Raspberrypi4-3776AB?style=for-the-badge&logo=Raspberrypi4&logoColor=61DAFB)
