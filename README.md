@@ -17,7 +17,7 @@
 
 ## 🚀 About Me:
 
-🎓 I am Shreyas Saunshi, a **Cyber Security Researcher, Ethical Hacker, CTF Player, Bug bounty Hunter, Programmer & Blockchain Enthusiast**. I am Pursuing my Bachelor in **Electronics and Communication Engineering** and will graduate in mid-2025.
+🎓 I am Shreyas Saunshi, a **Cyber Security Researcher, Ethical Hacker, CTF Player, Bug bounty Hunter, Programmer, Front End Developer & Blockchain Enthusiast**. I am Pursuing my Bachelor in **Electronics and Communication Engineering** and will graduate in mid-2025.
 
 👨‍💻 I enjoy contributing to **Open Source Projects** I'm a member of **Github** developer group from past 9 months, I also stared freelancing from past year. I am really enthusiastic about learning new technologies. 
 
