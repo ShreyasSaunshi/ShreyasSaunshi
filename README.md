@@ -1,14 +1,14 @@
 <a href="https://www.instagram.com/shreyassaunshi/">
-  <img align="left" alt="Shreyas's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Shreyas's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"/>
 </a>
 <a href="https://discord.com/channels/@me/1056137701881028690">
-  <img align="left" alt="Shreyas's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Shreyas's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"/>
 </a>
 <a href="https://twitter.com/ishreyassaunshi">
-  <img align="left" alt="Shreyas Saunshi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Shreyas Saunshi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>
 </a>
 <a href="https://www.linkedin.com/in/shreyassaunshi/">
-  <img align="left" alt="Shreyas's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Shreyas's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
 </a>  
     <img src="https://visitor-badge.laobi.icu/badge?page_id=shreyassaunshi.shreyassaunshi" alt="visitors">
 <br>
