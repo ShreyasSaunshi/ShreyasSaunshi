@@ -2,7 +2,7 @@
   <img align="left" alt="Shreyas's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"/>
 </a>
 <a href="https://discord.com/channels/@me/1056137701881028690">
-  <img align="left" alt="Shreyas's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"/>
+  <img align="left" alt="Shreyas's Discord" width="22px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg"/>
 </a>
 <a href="https://twitter.com/ishreyassaunshi">
   <img align="left" alt="Shreyas Saunshi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>
