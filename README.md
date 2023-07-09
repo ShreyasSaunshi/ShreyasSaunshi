@@ -5,10 +5,10 @@
   <img align="left" alt="Shreyas's Discord" width="22px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg"/>
 </a>
 <a href="https://twitter.com/ishreyassaunshi">
-  <img align="left" alt="Shreyas Saunshi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>
+  <img align="left" alt="Shreyas Saunshi | Twitter" width="22px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg"/>
 </a>
 <a href="https://www.linkedin.com/in/shreyassaunshi/">
-  <img align="left" alt="Shreyas's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
+  <img align="left" alt="Shreyas's LinkedIN" width="22px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"/>
 </a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=shreyassaunshi.shreyassaunshi" alt="visitors">
 <br>
