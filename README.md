@@ -77,6 +77,3 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:shreyassaunshi@protonmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shreyassaunshi/)
 [![Linktree](https://img.shields.io/badge/Linktree-6FDA44?style=for-the-badge&logo=Linktree&logoColor=white)](https://linktr.ee/shreyassaunshi)
-
-<h3 align="left">Support Me:</h3>
-<p><a href="https://www.buymeacoffee.com/shreyassaunshi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shreyassaunshi" /></a>
