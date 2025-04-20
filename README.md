@@ -10,14 +10,15 @@
 <a href="https://www.linkedin.com/in/shreyassaunshi/">
   <img align="left" alt="Shreyas's LinkedIN" width="22px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"/>
 </a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=shreyassaunshi.shreyassaunshi" alt="visitors">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=shreyassaunshi.shreyassaunshi" alt="visitors">
 <br>
 
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 ## 🚀 About Me:
 
-🎓 I am Shreyas Saunshi, a **Cyber Security Researcher, Ethical Hacker, CTF Player, Bug bounty Hunter, Programmer & Blockchain Enthusiast**. I am Pursuing my Bachelor's in **Electronics and Communication Engineering** and will graduate in mid-2025.
+🎓 I am Shreyas Saunshi, a **Cyber Security Researcher, Ethical Hacker, CTF Player, Bug bounty Hunter, Programmer & Blockchain Enthusiast**.  
+I am Pursuing my Bachelor's in **Electronics and Communication Engineering** and will graduate in mid-2025.
 
 # 🛠️ Skills:
 
@@ -50,17 +51,23 @@
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![tailwind](https://img.shields.io/badge/Tailwind-563D7C?style=for-the-badge&logo=tailwind&logoColor=white)
+![tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![angular](https://img.shields.io/badge/Angular-593D88?style=for-the-badge&logo=angular&logoColor=white)
+![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![nextjs](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+### Back-End Development:
+
+![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 
 ## 🖥️ Workspace Setup
 
-![ryzen7-6800h](https://img.shields.io/badge/Ryzen7-6800h-0071C5?style=for-the-badge&logo=ryzenl&logoColor=white)
+![ryzen7-6800h](https://img.shields.io/badge/Ryzen7-6800h-0071C5?style=for-the-badge&logo=amd&logoColor=white)
 ![rtx-3050](https://img.shields.io/badge/NVIDIA-RTX_3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 ## 🔗 Links
@@ -71,3 +78,18 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:shreyassaunshi@protonmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shreyassaunshi/)
 [![Linktree](https://img.shields.io/badge/Linktree-6FDA44?style=for-the-badge&logo=Linktree&logoColor=white)](https://linktr.ee/shreyassaunshi)
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyassaunshi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyassaunshi&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyassaunshi&theme=tokyonight" alt="GitHub Activity Graph" />
+</p>
