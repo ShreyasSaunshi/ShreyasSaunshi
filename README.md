@@ -72,8 +72,7 @@ I am Pursuing my Bachelor's in **Electronics and Communication Engineering** and
 ## 🔗 Links
 
 [![Resume](https://img.shields.io/badge/Resume-EE4B2B?style=for-the-badge&logo=Resume&logoColor=red)](https://drive.google.com/file/d/1bkePx7rNlAtFLY5tvABoJVQ8ufKljXjQ/view?usp=sharing)
-[![Portfolio](https://img.shields.io/badge/Portfolio-EE4B2B?style=for-the-badge&logo=Portfolio&logoColor=green)]
-(https://shreyassaunshi.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-EE4B2B?style=for-the-badge&logo=Portfolio&logoColor=green)](https://shreyassaunshi.vercel.app)
 [![upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~017fd3fd77fe50338b)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/shreyassaunshi/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:shreyassaunshi@protonmail.com)
